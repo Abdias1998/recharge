@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  /* font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale; */
+}
+h2 {
+  font-size: 27px;
+  font-weight: 900;
+}
+
+p {
+  font-size: 16px;
+  font-weight: 300;
+}
+
+/* //Heroes  */
+
+.heroe {
+  background: linear-gradient(
+    45deg,
+    #ffffff 60%,
+    #a35c05 10%,
+    #a19d9d 10%,
+    #971a1a 10%
+  );
+  width: 100%;
+  height: 80vh;
+}
